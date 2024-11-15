@@ -1,0 +1,21 @@
+.app{
+    width: 600px;
+    margin: 80px auto;
+    padding: 10px;
+}
+.app button{
+    padding: 7px;
+    border: 1px solid white ;
+    background-color: blue;
+    color: white;
+    width: 200px;
+    border-radius: 10px;
+    font-size: 17px;
+}
+.popup{
+    margin-top: 15px;
+    color: green;
+    width:max-content;
+    font-size: 28px;
+    font-weight: 600;
+}
